@@ -1,0 +1,144 @@
+.signUpBody{
+    background: url(../images/signup.jpg) no-repeat;
+    background-size:100%;
+}
+.goBackContacts{
+    position: absolute;
+    bottom:-40px;
+    left: 200px;
+}
+.well{
+    margin-left: 300px;
+    background-color: rgb(243, 201, 16);
+}
+.red{
+    color: red;
+}
+.displayCentre {
+    width: 1200px;
+    height: 600px;
+	margin: 0 auto;
+}
+.shortcut {
+	height: 31px;
+	background-color: #f1f1f1;
+    line-height: 31px;
+}
+.shortcut li {
+	float: left;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+li {
+    list-style: none;
+}
+a {
+    color: #666;
+    text-decoration: none;
+}
+body {
+    font: 15px 'arial', 'Heiti SC', tahoma, arial, 'Hiragino Sans GB', sans-serif;
+    color: #666
+}
+.videoBackground{
+    height: 120%;
+    width: 150%;
+    margin: 0px;
+    margin-left: -150px;
+}
+
+
+.aboutMeBody{
+ overflow: hidden;
+}
+.headIcon{
+    position: absolute;
+    bottom: 73%;
+    left:48%;
+    height: 170px;
+    width: 120px;
+    background:url(../images/headicon.png) no-repeat;
+    background-size:100%;
+    opacity: 1;
+}
+
+.iam{
+    color: ivory;
+    font-size: 30px;
+    position: absolute;
+    bottom: 72%;
+    left:39%
+}
+
+.myName{
+  color: ivory;
+  font-size: 30px;
+  font-weight: 900;
+  position: absolute;
+  bottom: 72%;
+  left:42%
+}
+
+.justA{
+  color: ivory;
+  font-size: 30px;
+  position: absolute;
+  bottom: 72%;
+  left:52.2%
+}
+
+.student{
+  color: ivory;
+  font-size: 30px;
+  font-weight: 900;
+  position: absolute;
+  bottom: 72%;
+  left:55%
+}
+
+.school{
+  color: ivory;
+  font-size: 30px;
+  position: absolute;
+  bottom: 68%;
+  left:40%
+}
+
+.sentence{
+      font-style:italic;
+      color: ivory;
+      font-size: 30px;
+      position: absolute;
+      bottom: 61%;
+      left:40.3%
+}
+
+  .buttonInMe {
+      position: absolute;
+      bottom: 48%;
+      left: 44.4%;
+      display: inline-block;
+      padding: 15px 25px;
+      font-size: 16px;
+      cursor: pointer;
+      text-align: center;   
+      text-decoration: none;
+      outline: none;
+      color: #fff;
+      background-color: rgb(61, 193, 245);
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+}
+    
+    .buttonInMe:hover {background-color: #528bf3}
+    
+    .buttonInMe:active {
+      background-color: #528bf3;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+}
